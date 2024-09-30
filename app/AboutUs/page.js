@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Piyush from '../Image/piyush.jpg'; 
 import Tiru from '../Image/tiru.jpg'; 
 import Kunal from '../Image/kunal.jpg'; 
-import Navbar from '../components/navbar';
+import Navbar from '../navbar';
 
 export default function AboutUs() {
   return (
