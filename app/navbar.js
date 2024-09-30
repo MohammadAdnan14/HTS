@@ -24,7 +24,7 @@ function Navbar() {
             <Link href="/AboutUs" className="text-gray-300 hover:text-[#6a0dad] transition duration-300">
               About Us
             </Link>
-            <Link href="/Quiz" className="text-gray-300 hover:text-[#6a0dad] transition duration-300">
+            <Link href="/Tn-quiz" className="text-gray-300 hover:text-[#6a0dad] transition duration-300">
               Quiz
             </Link>
           </div>
