@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import Quiz from '../Image/quiz.jpg';
 import { FaTrophy } from 'react-icons/fa'; 
-import Navbar from '../components/navbar';
+import Navbar from '../navbar';
 
 export default function QuizSection() {
   return (
