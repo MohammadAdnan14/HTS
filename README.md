@@ -1,4 +1,4 @@
-# 🧠 IQChain (HTS)
+# 🧠 IQChain
 
 IQChain is a decentralized, Web3-enabled trivia quiz application built on the **Diamante Blockchain**. By combining interactive trivia gameplay, Clerk authentication, and Diamante wallet transactions, IQChain offers a seamless and secure play-to-earn/pay-to-play gaming experience.
 
@@ -27,7 +27,7 @@ IQChain is a decentralized, Web3-enabled trivia quiz application built on the **
 ## 📂 Project Structure
 
 ```directory
-HTS/
+IQChain/
 ├── .vscode/                 # Workspace settings
 └── next_app/                # Next.js Application Root
     ├── app/                 # Next.js App Router Pages
@@ -59,8 +59,8 @@ HTS/
 
 ### 1. Clone & Access Project Files
 ```bash
-git clone https://github.com/MohammadAdnan14/HTS.git
-cd HTS/next_app
+git clone https://github.com/MohammadAdnan14/IQChain.git
+cd IQChain/next_app
 ```
 
 ### 2. Install Dependencies
